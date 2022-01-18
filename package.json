@@ -26,7 +26,7 @@
     "commit": "lint-staged"
   },
   "dependencies": {
-    "fbjs": "^0.8.0",
+    "fbjs": "^2.0.0",
     "gud": "^1.0.0"
   },
   "peerDependencies": {
